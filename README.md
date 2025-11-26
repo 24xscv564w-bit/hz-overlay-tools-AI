@@ -23,6 +23,8 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 ### Media
 - **`Screenshot.png`** — still image of the overlay in action  
 - **`hz_overlay_in_action.mov`** — short demonstration video  
+## Preview
+![Overlay Screenshot](Screenshot_144.png)
 
 ## Usage
 1. Ensure Python 3.8+ is installed on Windows.
