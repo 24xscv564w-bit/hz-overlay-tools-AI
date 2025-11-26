@@ -34,6 +34,8 @@ Example of 144Hz detection (bottom-right overlay)
 1. Ensure Python 3.8+ is installed on Windows.
 2. Run with console: `python hz_overlay.py`  
    Or run without console: `pythonw hz_overlay.py`
+3. Add Start_Hz_Overlay - Shortcut to shell:startup (set run to minizmized in properties) 
+4. Add ToggleHZ.ahk to shell:startup for easy CTRL + ALT + H  hertz toggle or set to custom
    
 ## Why this exists
 Many monitors switch between 120 Hz (10-bit) and 144 Hz (8-bit), 
