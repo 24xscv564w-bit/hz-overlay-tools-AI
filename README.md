@@ -31,12 +31,11 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 Example of 144Hz detection (bottom-right overlay)
 
 ![Overlay Screenshot](Screenshot_144.png)
-## 🖼 Icon previews
+## 🖼 Resolution toggles
 
-Preview of the 2K resolution toggle icons included in the release.
+Preview of the QHD <-> FHD toggles
 
-<img src="icons/2K1600P.png" width="220">
-<img src="icons/2K1440P.png" width="220">
+<img src="icon 1.ico" width="100">  <img src="icon 2.ico" width="100">
 
 
 ## Usage
