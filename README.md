@@ -8,6 +8,8 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 - Positions overlay near bottom-right (configurable in script).
 - Minimal dependencies (uses Tkinter and Python stdlib).
 
+👉 **[Download Latest Release](https://github.com/24xscv564w-bit/hz-overlay/releases/latest)**  
+
 ## 📁 Included Files
 ### Core Files
 - **`hz_overlay.py`** — primary overlay script (scrubbed for release)  
@@ -38,3 +40,7 @@ See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
 
 ## License
 MIT
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-00adef)
