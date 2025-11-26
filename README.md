@@ -45,7 +45,9 @@ Preview of the QHD <-> FHD toggles
 3. Add Start_Hz_Overlay - Shortcut.lnk to shell:startup (set run to minizmized in properties) 
 4. Add ToggleHZ.ahk.ahk to shell:startup for easy CTRL + ALT + H  hertz toggle or set to custom
 5. Optional: Use
+   
 Toggle2k.exe → switch to 2560×1440/1920x1080
+
 Toggle2k16.exe → switch to 2560×1600/1920x1200
    
 ## Why this exists
