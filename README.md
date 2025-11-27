@@ -65,15 +65,7 @@ your refresh rate changes.
 ## Building an EXE
 See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
 some exes included
-
-
-Summary:
-
-- Added **1440p** & **1600p** gold icons  
-- Updated resolution toggle to **2560×1600**  
-- Clean build & signing instructions  
-- Updated README previews  
-- Reorganized repo structure  
+   
 
 ---
 
