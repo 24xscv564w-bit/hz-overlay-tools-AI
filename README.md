@@ -32,8 +32,8 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 - **`Start_Hz_Overlay - Shortcut.lnk`** — Windows shortcut for easy autostart  
 - **`ToggleHZ.ahk`** — AutoHotkey script for toggling 120 Hz ↔ 144 Hz  
 - **`ToggleHZ.bat`** — Batch version of the refresh-rate toggle
-- **`Toggle2k.exe`** — instantly switches monitor to 2560×1440 (2K1440p)
-- **`Toggle2k16.exe`** — instantly switches monitor to 2560×1600 (2K1600p)
+- **`Toggle2k.exe`** — instantly switches monitor between 2K1440p/1080p
+- **`Toggle2k16.exe`** — instantly switches monitor between 2K1600p/1200p
 ### Media
 - **`Screenshot.png`** — still image of the overlay in action  
 - **`hz_overlay_in_action.mov`** — short demonstration video  
