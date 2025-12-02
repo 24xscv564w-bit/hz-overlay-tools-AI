@@ -74,34 +74,24 @@ but Windows provides no quick visual indicator.
 This overlay gives an instant, automatic notification whenever 
 your refresh rate changes.
 
+## AI part
+Human Tweaked AI code
+
 ## Building an EXE
 See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
-some exes included
+**some exes included**
    
-
 ---
 
-## 🤝 Why This Repo Exists
 
-This repo accompanies the main **hz-overlay**, providing:
-- Easy resolution switching  
-- Instant hertz toggling  
-- Custom high-res icons  
-- Auto-start launchers  
-- Support files for Windows users  
-
-visual que for current and new refresh-rate
-
-
-
-## ⭐ Credits
+## Credits
 
 Created by **24xscv564w-bit (K.P.)**, 2025  
 Part of the **hz-overlay** project ecosystem.
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free for personal + commercial use.
 
