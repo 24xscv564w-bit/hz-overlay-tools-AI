@@ -1,5 +1,7 @@
 # hz-overlay
 Lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
+### AI part
+Human tweaked AI code
 ## Overlay Preview
 Example of 144Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 
@@ -73,9 +75,6 @@ Many monitors switch between 120 Hz (10-bit) and 144 Hz (8-bit),
 but Windows provides no quick visual indicator.  
 This overlay gives an instant, automatic notification whenever 
 your refresh rate changes.
-
-## AI part
-Human tweaked AI code
 
 ## Building an EXE
 See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
