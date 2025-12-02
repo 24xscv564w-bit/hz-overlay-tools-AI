@@ -1,4 +1,4 @@
-# hz-overlay
+# hz_overlay
 Ready to use lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
 
 👉 **[Download Latest Release](https://github.com/24xscv564w-bit/hz-overlay/releases/latest)** 
