@@ -1,5 +1,5 @@
 # hz-overlay
-Lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
+Ready to use lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
 ### AI part
 Human tweaked AI code
 ## Overlay Preview
