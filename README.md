@@ -10,9 +10,11 @@ Clean Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 ![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
 
 ## Main tools
- **`hz_overlay.py`**  [⬇️] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
+ **`Stay_Overlay.py`** *Ready to Use* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Stay_Overlay.py
+ 
+ **`hz_overlay.py`**  [animated] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
 <a id="raw-url" href="https://github.com/username/repo/blob/main/hz_overlay.py?raw=1" download>Download</a>
- >  - **`Stay_Overlay.py`** *Ready to Use* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Stay_Overlay.py
+ 
  -------------  
  > - **`AHK toggle`** Add to **`shell:startup`** *Check Path*, install **`Qres`**  https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/ToggleHZ.ahk.ahk 
  > - **`Start_Hz_Overlay.bat`** *Edit path* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
