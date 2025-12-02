@@ -1,5 +1,5 @@
 # hz-overlay
-Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144Hz).
+Lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
 ## Overlay Preview
 Example of 144Hz detection (bottom-right overlay)
 
