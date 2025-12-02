@@ -86,7 +86,7 @@ See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
 ## Credits
 
 Created by **24xscv564w-bit (K.P.)**, 2025  
-Part of the **hz-overlay** project ecosystem.
+Part of the **hz_overlay** project ecosystem.
 
 ---
 
