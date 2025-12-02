@@ -1,5 +1,9 @@
 # hz-overlay
-Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144Hz) and bit-depth hints.
+Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144Hz).
+## Overlay Preview
+Example of 144Hz detection (bottom-right overlay)
+
+![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
 
 ## Main tools
  **`hz_overlay.py`**  [⬇️] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
@@ -27,11 +31,13 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 
 ## 📁 Included Files
 ### Core Files
-- **`hz_overlay.py`** — primary overlay script (scrubbed for release)  
+- **`hz_overlay.py`** — primary overlay script  
 - **`README.md`** — project documentation  
 - **`LICENSE`** — MIT license  
 - **`RELEASE.md`** — suggested GitHub release notes  
-- **`BUILD_EXE.md`** — instructions for building a standalone EXE with PyInstaller  
+- **`BUILD_EXE.md`** — instructions for building a standalone EXE with PyInstaller
+- **`Stay_Overlay.py`** Does not dissapear is **very plain**
+  
 ### Helper Tools
 - **`Start_Hz_Overlay.bat`** — launches the overlay  
 - **`Start_Hz_Overlay - Shortcut.lnk`** — Windows shortcut for easy autostart  
@@ -42,12 +48,8 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 - **`Toggle2k16.exe`** — instantly switches monitor between 1200p/2K1600p
 ### Media
 - **`Screenshot.png`** — still image of the overlay in action  
-- **`hz_overlay_in_action.mov`** — short demonstration video  
-## Preview
-Example of 144Hz detection (bottom-right overlay)
-
-![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
-## 🖼 Resolution toggles
+- **`hz_overlay_in_action.mov`** — short demonstration video
+## Resolution toggles Preview
 
 Preview of the QHD <-> FHD toggles
 
