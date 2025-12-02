@@ -5,7 +5,7 @@ Ready to use lightweight Windows overlay to indicate monitor refresh rate. The o
 ### AI part
 Human tweaked AI code
 ## Overlay Preview
-Clean 144Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
+Clean Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 
 ![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
 
