@@ -10,7 +10,7 @@ Clean Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 ![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
 
 ## Main tools
- **`Stay_Overlay.py`** *Ready to Use* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Stay_Overlay.py
+ **`Stay_Overlay.py`** *Ready to Use and not distracting* https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Stay_Overlay.py
  
  **`hz_overlay.py`**  [animated] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
 <a id="raw-url" href="https://github.com/username/repo/blob/main/hz_overlay.py?raw=1" download>Download</a>
